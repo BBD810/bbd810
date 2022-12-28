@@ -1,9 +1,5 @@
 <div>
   <div align="center">
-    <img align="center" width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=364765&height=200&section=header&text=Byeongdo's%20Github&fontSize=35&fontColor=eeeeee" />
-  </div>
-  
-  <div align="center">
     <h2>💻 Front-end Developer 💻</h2>
     <br>
     
